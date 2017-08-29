@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
     "inquirer": "^3.2.2",
     "node-spotify-api": "^1.0.7",
     "request": "^2.81.0",
